@@ -1,0 +1,22 @@
+[
+    {
+        "name": "BBQ Chicken Wings",
+        "price": 200,
+        "rating": 4
+    },
+    {
+        "name": "Spicy Chicken Wings",
+        "price": 200,
+        "rating": 5
+    },
+    {
+        "name": "Chips",
+        "price": 100,
+        "rating": 3
+    },
+    {
+        "name": "French toast",
+        "price": 150,
+        "rating": 5
+    }
+]

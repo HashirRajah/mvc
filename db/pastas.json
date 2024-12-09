@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Truffle Fettuccine Al Forno",
+        "price": 200,
+        "rating": 5
+    },
+    {
+        "name": "Mediterranean Penne Primavera",
+        "price": 200,
+        "rating": 5
+    },
+    {
+        "name": "Spicy Sicilian Shrimp Linguine",
+        "price": 100,
+        "rating": 4
+    },
+    {
+        "name": "Porcini Mushroom Ravioli",
+        "price": 150,
+        "rating": 3
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Tuscan Sun Delight",
+        "price": 200,
+        "rating": 4
+    },
+    {
+        "name": "Smoky BBQ Inferno",
+        "price": 200,
+        "rating": 5
+    },
+    {
+        "name": "Mediterranean Harvest",
+        "price": 200,
+        "rating": 5
+    },
+    {
+        "name": "Truffle Forest Special",
+        "price": 200,
+        "rating": 4
+    }
+]
