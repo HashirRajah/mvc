@@ -1,5 +1,6 @@
 import PastaController from "./controllers/pastaController.js";
 import StarterController from "./controllers/starterController.js"
+import PizzaController from "./controllers/pizzaController.js";
 
 document.addEventListener("DOMContentLoaded", () => {
     let route = new URLSearchParams(window.location.search).get("route");
@@ -14,6 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
             break;
         case "pizzas": 
             makeLinkActive(route);
+            PizzaController.list();
             break;
         case "pastas": 
             makeLinkActive(route);
