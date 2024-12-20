@@ -1,3 +1,4 @@
+import PastaController from "./controllers/pastaController.js";
 import StarterController from "./controllers/starterController.js"
 import PizzaController from "./controllers/pizzaController.js";
 
@@ -18,6 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
             break;
         case "pastas": 
             makeLinkActive(route);
+            PastaController.list();
             break;
         default:
             console.log("d");
